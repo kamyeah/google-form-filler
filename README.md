@@ -22,7 +22,7 @@ A Google Form is created in your Google account.
 The FormApp service is enabled in Google Apps Script.
 
 The Google Form ID for the target form.
------------------------------------------------------
+----------------------------------------------------
 How to Use :
 
 Open Google Apps Script:
